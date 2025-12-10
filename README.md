@@ -1,5 +1,5 @@
 # workflow-engine
-A lightweight workflow engine built for the AI Engineering assignment.
+A minimal agent workflow engine supporting state management, conditional branching, and looping.
 
 ## Features
 - Node-based execution
