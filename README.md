@@ -20,3 +20,6 @@ Runs a graph using graph_id and initial state.
 Returns stored state of any run.
 
 ## Run Locally
+bashpip install -r requirements.txt
+uvicorn app.main:app --reload
+Visit http://localhost:8000/docs for API documentation.
